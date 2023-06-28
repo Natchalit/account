@@ -1,0 +1,5 @@
+package errory
+
+func Handler() {
+
+}
